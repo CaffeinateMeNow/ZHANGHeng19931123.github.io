@@ -10,15 +10,15 @@ body {
     margin: 0 auto;
     max-width: 1200px;
     background-color: white;
-    border-right: 1px dashed #0B3C5D
+    border-right: 1px dashed #a2b9bc
 }
 
 a {
-    color: #B37D4E
+    color: #b2ad7f
 }
 
 #navigation {
-    background-color: #0B3C5D;
+    background-color: #a2b9bc;
     position: fixed;
     top: 0;
     width: 260px;
@@ -122,7 +122,7 @@ a {
 
 #content h2 {
     margin-top: 35px;
-    color: #B37D4E;
+    color: #b2ad7f;
     text-transform: uppercase
 }
 
@@ -137,7 +137,7 @@ h2#first {
 
 .strong {
     font-weight: 700;
-    color: #0B3C5D
+    color: #a2b9bc
 }
 
 .italic {
